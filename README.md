@@ -9,6 +9,10 @@ A multiple-choice quiz application built using HTML, CSS, and JavaScript.
 - Next button navigation
 - Quiz completion message
 
+## Screenshot
+<img width="952" height="442" alt="quizapp" src="https://github.com/user-attachments/assets/f1b1c135-d529-4634-a293-cc6be7b80426" />
+
+
 ## Technologies Used
 - HTML
 - CSS
